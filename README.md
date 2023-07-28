@@ -1,6 +1,6 @@
-Hey, I'm Sam 👋 !
+<h2>Hey, I'm Sam 👋 !</h1>
 
-A little about me...
+<h3>A little about me...</h3>
 
 * I'm a former Customer Success Manager turned Full-Stack Software Engineer
 * Proficient in Ruby on Rails, JavaScript, React, HTML, CSS. Love building cool stuff and solving complex problems 👨‍💻
