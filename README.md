@@ -7,9 +7,9 @@
 * Outside of coding, I'm all about sports (big time boston sports fan) and music (electronic music producer) 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=sfwells0518&theme=vue-dark" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=sfwells0518&theme=cobalt2" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfwells0518&theme=vue-dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfwells0518&theme=cobalt2&layout=compact&langs_count=8&card_width=320" />
 </a>
 
