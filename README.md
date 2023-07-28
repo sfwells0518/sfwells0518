@@ -7,7 +7,7 @@
 * Proficient in Ruby on Rails, JavaScript, React, HTML, CSS. Love building cool stuff and solving complex problems 👨‍💻
 * Outside of coding, I'm all about sports (big time boston sports fan) and music (electronic music producer) 🏈 ⚾ 🎹
 
-![Untitled design (10)](https://github.com/sfwells0518/sfwells0518/assets/125096981/d19d5968-5235-4285-9691-8708e0a1dab9)Currently looking for Junior Software Engineering roles
+![Untitled design (12)](https://github.com/sfwells0518/sfwells0518/assets/125096981/bfd5f82e-830a-4a78-83c9-b05c7dd9055f)Currently looking for Junior Software Engineering roles
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=sfwells0518&theme=cobalt2" />
