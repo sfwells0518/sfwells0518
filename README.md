@@ -4,7 +4,8 @@
 
 * Former Customer Success Manager turned Full Stack Software Engineer
 * Actualize Coding Bootcamp grad & current TA
-* Proficient in Ruby on Rails, JavaScript, React, HTML, CSS. Love building cool stuff and solving complex problems 👨‍💻
+* Proficient in Ruby on Rails, JavaScript, React, HTML, CSS 
+* Love building cool stuff and solving complex problems 👨‍💻
 * Outside of coding, I'm all about sports (big time boston sports fan) and music (electronic music producer) 🏈 ⚾ 🎹
 
 ![Untitled design (12)](https://github.com/sfwells0518/sfwells0518/assets/125096981/bfd5f82e-830a-4a78-83c9-b05c7dd9055f)Currently looking for Junior Software Engineering roles
