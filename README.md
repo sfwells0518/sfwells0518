@@ -5,7 +5,7 @@
 * Former Customer Success Manager turned Full Stack Software Engineer
 * Actualize Coding Bootcamp grad & current TA
 * Love building cool stuff and solving complex problems 👨‍💻
-* Outside of coding, I'm all about sports (big time boston sports fan) and music (electronic music producer) 🏈 ⚾ 🎹
+* Outside of coding, I'm all about sports (big time Boston sports fan) and music (electronic music producer) 🏈 ⚾ 🎹
 
 <h3>Proficient in...</h3>
 <code><img height="20" alt="ruby" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
