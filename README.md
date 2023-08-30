@@ -2,7 +2,7 @@
 
 <h3>A little about me...</h3>
 
-* Former Customer Success Manager turned Full Stack Software Engineer
+* Full Stack Software Engineer with a background in Customer Success
 * Actualize Coding Bootcamp grad & current TA
 * Love building cool stuff and solving complex problems 👨‍💻
 * Outside of coding, I'm all about sports (big time Boston sports fan) and music (electronic music producer) 🏈 ⚾ 🎹
