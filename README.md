@@ -16,7 +16,6 @@
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 <br></br>
-![Untitled design (12)](https://github.com/sfwells0518/sfwells0518/assets/125096981/bfd5f82e-830a-4a78-83c9-b05c7dd9055f)Currently looking for Junior Software Engineering roles
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=sfwells0518&theme=cobalt2" />
